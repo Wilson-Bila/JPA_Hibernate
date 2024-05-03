@@ -1,2 +1,2 @@
 # JPA_Hibernate
- Persistencia com JPA & Hibernate
+ Persistence with Java, JPA & Hibernate.
